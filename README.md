@@ -20,4 +20,6 @@ Check it out at: https://articles-rest-n1z3r.herokuapp.com/api/v1/
   - Read for all 
   - Create for authenticated
   - Update and delete for owners
-
+- **Search by
+  - Name of article
+  - Content of article
